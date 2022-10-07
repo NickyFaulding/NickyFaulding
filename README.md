@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicky
+# 👋 Hi, I’m Nicky
 
 I make cool things with code 😎
 
