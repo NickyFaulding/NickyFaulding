@@ -5,7 +5,7 @@ I make cool things with code 😎
 Check out my pinned repos!
 
 
-*Secret 🤫 I'm currently working on a Virtual Serial Port application in C++*
+*Secret 🤫 I'm currently developing a Virtual Serial Port application in C++*
 
 <!---
 NickyFaulding/NickyFaulding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
