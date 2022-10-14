@@ -2,7 +2,7 @@
 
 I make cool things with code 😎
 
-Check out my pinned repos!
+Check out my pinned repos! 📌
 
 
 *Secret 🤫 I'm currently developing a Virtual Serial Port application in C++*
